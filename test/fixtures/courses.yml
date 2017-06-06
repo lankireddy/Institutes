@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  fee: 1
+  duration: 2017-06-06
+
+two:
+  name: MyString
+  fee: 1
+  duration: 2017-06-06
